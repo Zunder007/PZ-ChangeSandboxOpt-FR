@@ -1,4 +1,6 @@
 Sandbox_FR = {
+	Sandbox_Mods = "Options du Bac à sable",
+
 	Sandbox_ChangeSandboxOptions_Pause = "Options du bac à sable changées",
 	Sandbox_ChangeSandboxOptions_Pause_tooltip = "L'action réalisée après que la fenêtre des options du bac à sable a été ouverte.",
 	Sandbox_ChangeSandboxOptions_PauseLevels_option1 = "Aucun effet",
